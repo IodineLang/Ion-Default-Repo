@@ -5,5 +5,6 @@
         "name": "Aurora01",
         "url": "https://github.com/IodineLang/Potassium"
     },
-    "modulename": "potassium"
+    "modulename": "potassium",
+    "download": "https://github.com/IodineLang/Potassium/archive/master.zip"
 }
