@@ -9,5 +9,6 @@
     "download": "http://iodinelang.github.io/Ion-Default-Repo/potassium.zip",
     "versionMajor": 0,
     "versionMinor": 1,
-    "versionPatch": 0
+    "versionPatch": 0,
+    "ionfileLocation": "Potassium-master"
 }
