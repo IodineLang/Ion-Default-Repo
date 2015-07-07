@@ -1,0 +1,15 @@
+{
+    "name": "loglib",
+    "description": "Simple, easy-to-use logging library.",
+    "maintainer": {
+        "name": "Aurora01",
+        "url": "https://github.com/IodineLang/loglib"
+    },
+    "modulename": "loglib",
+    "download": "https://github.com/IodineLang/loglib/archive/v0.1.0.zip",
+    "versionMajor": 0,
+    "versionMinor": 1,
+    "versionPatch": 0,
+    "ionfileLocation": "loglib-0.1.0",
+    "sha1": "0ed67daeb4c4a8f032995c89649bd7043c28f066"
+}
