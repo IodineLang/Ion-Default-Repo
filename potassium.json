@@ -8,7 +8,7 @@
     "modulename": "potassium",
     "download": "https://github.com/IodineLang/Potassium/archive/v0.1.0.zip",
     "version": "v0.1.0",
-    "ionfileLocation": "Potassium-master",
+    "ionfileLocation": "Potassium-0.1.0",
     "sha1": "c6c6113cda4d0e17e2c4b8e4b13d5b9238b4a770",
     "dependencies": [
         {
