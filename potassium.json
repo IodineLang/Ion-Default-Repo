@@ -9,7 +9,7 @@
     "download": "https://github.com/IodineLang/Potassium/archive/v0.1.0.zip",
     "version": "v0.1.0",
     "ionfileLocation": "Potassium-master",
-    "sha1": "ce11ef7096d01cf90f83016a9fe9578b4c8e2f97",
+    "sha1": "c6c6113cda4d0e17e2c4b8e4b13d5b9238b4a770",
     "dependencies": [
         {
             "name": "loglib",
