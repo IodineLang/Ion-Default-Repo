@@ -7,7 +7,7 @@
     },
     "modulename": "semver",
     "download": "https://github.com/IodineLang/semver/archive/v0.2.0.zip",
-    "version": "v0.2.0",
+    "version": "v0.2.1",
     "ionfileLocation": "semver-0.2.0",
     "sha1": "bbc3b795a7b6da06daf9bb44e80ea8a34b598074",
     "dependencies": []
