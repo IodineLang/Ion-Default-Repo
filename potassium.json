@@ -11,7 +11,7 @@
     "ionfileLocation": "Potassium-master",
     "sha1": "ce11ef7096d01cf90f83016a9fe9578b4c8e2f97",
     "dependencies": [
-        {
+        "loglib": {
             "name": "loglib",
             "version": "~0.1.0"
         }
