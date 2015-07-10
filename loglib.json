@@ -5,7 +5,7 @@
         "name": "Aurora01",
         "url": "https://github.com/IodineLang/loglib"
     },
-    "modulename": "loglib",
+    "friendlyName": "loglib",
     "download": "https://github.com/IodineLang/loglib/archive/v0.1.0.zip",
     "version": "v0.1.0",
     "ionfileLocation": "loglib-0.1.0",
