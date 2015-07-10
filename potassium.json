@@ -1,11 +1,11 @@
 {
-    "name": "Potassium",
+    "friendlyName": "Potassium",
+    "name": "potassium",
     "description": "Superpowered web framework fuelled by Iodine.",
     "maintainer": {
         "name": "Aurora01",
         "url": "https://github.com/IodineLang/Potassium"
     },
-    "modulename": "potassium",
     "download": "https://github.com/IodineLang/Potassium/archive/v0.1.0.zip",
     "version": "v0.1.0",
     "ionfileLocation": "Potassium-0.1.0",
