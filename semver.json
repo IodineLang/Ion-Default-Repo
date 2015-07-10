@@ -1,11 +1,11 @@
 {
-    "name": "Semantic Versioning",
+    "friendlyName": "Semantic Versioning",
     "description": "Lightweight, dependency-free semver library.",
     "maintainer": {
         "name": "Aurora01",
         "url": "https://github.com/IodineLang/semver"
     },
-    "modulename": "semver",
+    "name": "semver",
     "download": "https://github.com/IodineLang/semver/archive/v0.2.0.zip",
     "version": "v0.2.0",
     "ionfileLocation": "semver-0.2.0",
