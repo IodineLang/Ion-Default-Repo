@@ -1,0 +1,19 @@
+{
+    "friendlyName": "Potassium (Devel)",
+    "name": "potassium-dev",
+    "description": "Superpowered web framework fuelled by Iodine.",
+    "maintainer": {
+        "name": "Aurora01",
+        "url": "https://github.com/IodineLang/Potassium"
+    },
+    "download": "https://github.com/IodineLang/Potassium/archive/master.zip",
+    "version": "v0.2.0-pre",
+    "ionfileLocation": "Potassium-master",
+    "verifyHash": false,
+    "dependencies": [
+        {
+            "name": "loglib",
+            "version": "~0.1.0"
+        }
+    ]
+}
