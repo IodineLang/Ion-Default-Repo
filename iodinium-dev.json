@@ -1,0 +1,15 @@
+{
+    "friendlyName": "Iodinium (master branch)",
+    "name": "iodinium-dev",
+    "description": "A webserver written in Iodine.",
+    "maintainer": {
+        "name": "SplittyDev",
+        "url": "https://github.com/IodineLang/Iodinium"
+    },
+    "download": "https://github.com/IodineLang/Iodinium/archive/master.zip",
+    "version": "v0.1.0-alpha",
+    "ionfileLocation": "Iodinium-master",
+    "verifyHash": false,
+    "dependencies": [
+    ]
+}
