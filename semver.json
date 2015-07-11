@@ -10,5 +10,6 @@
     "version": "v0.2.0",
     "ionfileLocation": "semver-0.2.0",
     "sha1": "bbc3b795a7b6da06daf9bb44e80ea8a34b598074",
+    "verifyHash": true,
     "dependencies": []
 }
