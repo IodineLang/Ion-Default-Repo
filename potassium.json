@@ -10,6 +10,7 @@
     "version": "v0.1.0",
     "ionfileLocation": "Potassium-0.1.0",
     "sha1": "c6c6113cda4d0e17e2c4b8e4b13d5b9238b4a770",
+    "verifyHash": true,
     "dependencies": [
         {
             "name": "loglib",
