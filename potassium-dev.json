@@ -7,7 +7,7 @@
         "url": "https://github.com/IodineLang/Potassium"
     },
     "download": "https://github.com/IodineLang/Potassium/archive/master.zip",
-    "version": "v0.2.0-pre",
+    "version": "v0.2.1-pre",
     "ionfileLocation": "Potassium-master",
     "verifyHash": false,
     "dependencies": [
