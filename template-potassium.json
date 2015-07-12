@@ -11,10 +11,5 @@
     "ionfileLocation": "template-potassium-1.0.0",
     "verifyHash": true,
     "sha1": "353eab4f7bcc974d14a48d2a70d3c7adf889de0c",
-    "dependencies": [
-        {
-            "name": "potassium",
-            "version": "~0.1.1"
-        }
-    ]
+    "dependencies": []
 }
