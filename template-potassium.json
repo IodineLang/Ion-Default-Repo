@@ -1,0 +1,20 @@
+{
+    "name": "template-potassium",
+    "description": "Template to encourage well-structured Potassium projects.",
+    "maintainer": {
+        "name": "Aurora01",
+        "url": "https://github.com/IodineLang/template-potassium"
+    },
+    "friendlyName": "Potassium Template",
+    "download": "https://github.com/IodineLang/template-potassium/archive/v1.0.0.zip",
+    "version": "v1.0.0",
+    "ionfileLocation": "template-potassium-1.0.0",
+    "verifyHash": true,
+    "sha1": "353eab4f7bcc974d14a48d2a70d3c7adf889de0c",
+    "dependencies": [
+        {
+            "name": "potassium",
+            "version": "~0.1.1"
+        }
+    ]
+}
