@@ -6,10 +6,9 @@
         "url": "https://github.com/IodineLang/loglib"
     },
     "friendlyName": "loglib",
-    "download": "https://github.com/IodineLang/loglib/archive/v0.1.0.zip",
-    "version": "v0.1.0",
-    "ionfileLocation": "loglib-0.1.0",
-    "verifyHash": true,
-    "sha1": "668dddb7a3a5fbdb3e3fffdeb01b13f08fe9e806",
+    "download": "https://github.com/IodineLang/loglib/archive/v0.1.1.zip",
+    "version": "v0.1.1",
+    "ionfileLocation": "loglib-0.1.1",
+    "verifyHash": false,
     "dependencies": []
 }
