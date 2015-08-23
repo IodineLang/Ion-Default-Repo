@@ -1,0 +1,14 @@
+{
+    "name": "irclib",
+    "description": "Simple, easy-to-use IRC client library.",
+    "maintainer": {
+        "name": "GruntTheDivine",
+        "url": "https://github.com/IodineLang/irclib"
+    },
+    "friendlyName": "irclib",
+    "download": "https://github.com/IodineLang/IrcLib/archive/v0.1.0.zip",
+    "version": "v0.1.0",
+    "ionfileLocation": "irclib-0.1.0",
+    "verifyHash": false,
+    "dependencies": []
+}
