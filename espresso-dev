@@ -1,0 +1,14 @@
+{
+    "name": "espresso-dev",
+    "description": "Expressive, simple assertion/testing library",
+    "maintainer": {
+        "name": "Aurora0000",
+        "url": "https://github.com/IodineLang/espresso"
+    },
+    "friendlyName": "irclib",
+    "download": "https://github.com/IodineLang/espresso/archive/v1.0.0-rc.1.zip",
+    "version": "v0.1.0",
+    "ionfileLocation": "espresso-1.0.0-rc.1",
+    "verifyHash": false,
+    "dependencies": []
+}
