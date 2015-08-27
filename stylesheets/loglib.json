@@ -7,10 +7,10 @@
         "url": "https://github.com/IodineLang/loglib"
     },
     "versions": {
-        "v0.1.2": {
-            "download": "https://github.com/IodineLang/loglib/archive/v0.1.2.zip",
-            "version": "v0.1.2",
-            "ionfileLocation": "loglib-0.1.2",
+        "v0.1.3": {
+            "download": "https://github.com/IodineLang/loglib/archive/v0.1.3.zip",
+            "version": "v0.1.3",
+            "ionfileLocation": "loglib-0.1.3",
         }
     },
     "verifyHash": false,
