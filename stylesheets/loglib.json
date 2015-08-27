@@ -1,0 +1,14 @@
+{
+    "name": "loglib",
+    "description": "Simple, easy-to-use logging library.",
+    "maintainer": {
+        "name": "Aurora01/GruntTheDivine",
+        "url": "https://github.com/IodineLang/loglib"
+    },
+    "friendlyName": "loglib",
+    "download": "https://github.com/IodineLang/loglib/archive/v0.1.2.zip",
+    "version": "v0.1.2",
+    "ionfileLocation": "loglib-0.1.2",
+    "verifyHash": false,
+    "dependencies": {}
+}
