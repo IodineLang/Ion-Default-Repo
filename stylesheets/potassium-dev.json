@@ -11,6 +11,7 @@
     "ionfileLocation": "Potassium-master",
     "verifyHash": false,
     "dependencies": {
-        "loglib": "~0.1.1"
+        "loglib": "~0.1.1",
+        "foo": "~0.1.0"
     }
 }
