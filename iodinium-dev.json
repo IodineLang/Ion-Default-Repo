@@ -6,10 +6,13 @@
         "name": "SplittyDev",
         "url": "https://github.com/IodineLang/Iodinium"
     },
-    "download": "https://github.com/IodineLang/Iodinium/archive/master.zip",
-    "version": "v0.1.0-alpha",
-    "ionfileLocation": "Iodinium-master",
-    "verifyHash": false,
-    "dependencies": [
-    ]
+    
+    "versions": {
+        "v0.1.0-alpha": {
+            "download": "https://github.com/IodineLang/Iodinium/archive/master.zip",
+            "ionfileLocation": "Iodinium-master",
+            "verifyHash": false
+        }
+    },
+    "dependencies": {}
 }
