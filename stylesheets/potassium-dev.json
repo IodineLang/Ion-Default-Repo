@@ -6,10 +6,13 @@
         "name": "Aurora01",
         "url": "https://github.com/IodineLang/Potassium"
     },
-    "download": "https://github.com/IodineLang/Potassium/archive/master.zip",
-    "version": "v0.2.0-pre",
-    "ionfileLocation": "Potassium-master",
-    "verifyHash": false,
+    "versions": {
+        "v0.2.0-pre": {
+            "ionfileLocation": "Potassium-master",
+            "download": "https://github.com/IodineLang/Potassium/archive/master.zip",
+            "verifyHash": false
+        },
+    },
     "dependencies": {
         "loglib": "~0.1.1",
         "foo": "~0.1.0"
