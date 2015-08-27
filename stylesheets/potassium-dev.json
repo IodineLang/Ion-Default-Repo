@@ -12,6 +12,11 @@
             "download": "https://github.com/IodineLang/Potassium/archive/master.zip",
             "verifyHash": false
         },
+        "v0.2.1": {
+            "ionfileLocation": "Potassium-master",
+            "download": "https://github.com/IodineLang/Potassium/archive/master.zip",
+            "verifyHash": false
+        },
     },
     "dependencies": {
         "loglib": "~0.1.1",
