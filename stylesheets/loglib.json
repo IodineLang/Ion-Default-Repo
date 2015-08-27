@@ -14,5 +14,7 @@
         }
     },
     "verifyHash": false,
-    "dependencies": {}
+    "dependencies": {
+        "foo": "^0.1.0"
+    }
 }
