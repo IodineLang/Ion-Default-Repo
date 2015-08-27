@@ -6,9 +6,12 @@
         "url": "https://github.com/IodineLang/irclib"
     },
     "friendlyName": "irclib",
-    "download": "https://github.com/IodineLang/IrcLib/archive/v0.1.1.zip",
-    "version": "v0.1.1",
-    "ionfileLocation": "IrcLib-0.1.1",
-    "verifyHash": false,
-    "dependencies": []
+    "versions": {
+        "v0.1.1": {
+            "download": "https://github.com/IodineLang/IrcLib/archive/v0.1.1.zip",
+            "ionfileLocation": "IrcLib-0.1.1",
+            "verifyHash": false
+        }
+    },
+    "dependencies": {}
 }
