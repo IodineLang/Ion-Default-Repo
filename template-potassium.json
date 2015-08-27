@@ -6,10 +6,15 @@
         "url": "https://github.com/IodineLang/template-potassium"
     },
     "friendlyName": "Potassium Template",
-    "download": "https://github.com/IodineLang/template-potassium/archive/v2.0.0.zip",
-    "version": "v2.0.0",
-    "ionfileLocation": "template-potassium-2.0.0",
-    "verifyHash": true,
-    "sha1": "51066a3c40d1bed89d6d5630667fac4c76c4aaf8",
-    "dependencies": []
+    "version": {
+        "v2.0.0": {
+            "ionfileLocation": "template-potassium-2.0.0",
+            "verifyHash": true,
+            "sha1": "51066a3c40d1bed89d6d5630667fac4c76c4aaf8",
+            "download": "https://github.com/IodineLang/template-potassium/archive/v2.0.0.zip"
+        }
+    },
+    "dependencies": {
+        "potassium": "~0.1.0"
+    }
 }
