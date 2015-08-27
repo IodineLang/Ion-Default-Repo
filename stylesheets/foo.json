@@ -4,6 +4,4 @@
         "ionfileLocation": "loglib-0.1.2"
     }
 },
-"dependencies": {
-    "loglib": "^0.1.2"
-}
+"dependencies": {}
