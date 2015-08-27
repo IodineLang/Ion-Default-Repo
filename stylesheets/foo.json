@@ -1,0 +1,9 @@
+"versions": {
+    "v0.1.0": {
+        "download": "https://github.com/IodineLang/loglib/archive/v0.1.2.zip",
+        "ionfileLocation": "loglib-0.1.2"
+    }
+},
+"dependencies": {
+    "loglib": "^0.1.2"
+}
