@@ -13,5 +13,5 @@
             "ionfileLocation": "loglib-0.1.3",
         }
     },
-    "verifyHash": false
+    "dependencies": {}
 }
