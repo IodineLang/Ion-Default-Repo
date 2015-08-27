@@ -6,10 +6,9 @@
         "url": "https://github.com/IodineLang/semver"
     },
     "name": "semver",
-    "download": "https://github.com/IodineLang/semver/archive/v0.2.1.zip",
-    "version": "v0.2.1",
-    "ionfileLocation": "semver-0.2.1",
-    "sha1": "7abac2db9c213eec1934241aa0b992085f6433cb",
-    "verifyHash": true,
+    "download": "https://github.com/IodineLang/semver/archive/v0.2.2.zip",
+    "version": "v0.2.2",
+    "ionfileLocation": "semver-0.2.2",
+    "verifyHash": false,
     "dependencies": []
 }
