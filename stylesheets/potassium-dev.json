@@ -19,7 +19,6 @@
         },
     },
     "dependencies": {
-        "loglib": "~0.1.1",
-        "foo": "~0.1.0"
+        "loglib": "~0.1.1"
     }
 }
