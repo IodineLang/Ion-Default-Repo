@@ -10,8 +10,7 @@
     "versions": {
         "v0.1.0-alpha": {
             "download": "https://github.com/IodineLang/Iodinium/archive/master.zip",
-            "ionfileLocation": "Iodinium-master",
-            "verifyHash": false
+            "ionfileLocation": "Iodinium-master"
         }
     },
     "dependencies": {}
