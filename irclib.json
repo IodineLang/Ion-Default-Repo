@@ -9,8 +9,7 @@
     "versions": {
         "v0.1.1": {
             "download": "https://github.com/IodineLang/IrcLib/archive/v0.1.1.zip",
-            "ionfileLocation": "IrcLib-0.1.1",
-            "verifyHash": false
+            "ionfileLocation": "IrcLib-0.1.1"
         }
     },
     "dependencies": {}
