@@ -10,7 +10,7 @@
         "v1.0.0-rc.1": {
             "download": "https://github.com/IodineLang/espresso/archive/v1.0.0-rc.1.zip",
             "ionfileLocation": "espresso-1.0.0-rc.1",
-            "verifyHash": false
+            "hash": "1"
         }
     },
     "dependencies": {}
