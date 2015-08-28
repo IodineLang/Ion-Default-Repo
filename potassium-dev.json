@@ -9,8 +9,7 @@
     "versions": {
         "v0.2.0-pre": {
             "download": "https://github.com/IodineLang/Potassium/archive/master.zip",
-            "ionfileLocation": "Potassium-master",
-            "verifyHash": false
+            "ionfileLocation": "Potassium-master"
         }
     },
     "dependencies": {
