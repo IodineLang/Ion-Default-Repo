@@ -7,6 +7,10 @@
         "url": "https://github.com/IodineLang/espresso"
     },
     "versions": {
+        "v1.1.1": {
+            "download": "https://github.com/IodineLang/espresso/archive/v1.1.1.zip",
+            "ionfileLocation": "espresso-1.1.1"
+        },
         "v1.1.0": {
             "download": "https://github.com/IodineLang/espresso/archive/v1.1.0.zip",
             "ionfileLocation": "espresso-1.1.0"
