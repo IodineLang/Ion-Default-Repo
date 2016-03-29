@@ -11,10 +11,6 @@
             "download": "https://github.com/IodineLang/semver/archive/v0.2.3.zip", 
             "ionfileLocation": "semver-0.2.3"
         }
-        "v0.2.2": {
-            "download": "https://github.com/IodineLang/semver/archive/v0.2.2.zip", 
-            "ionfileLocation": "semver-0.2.2"
-        }
     },
     "dependencies": {}
 }
