@@ -7,6 +7,10 @@
     },
     "friendlyName": "irclib",
     "versions": {
+        "v0.1.5": {
+            "download": "https://github.com/IodineLang/IrcLib/archive/v0.1.5.zip",
+            "ionfileLocation": "IrcLib-0.1.5"
+        },
         "v0.1.4": {
             "download": "https://github.com/IodineLang/IrcLib/archive/v0.1.4.zip",
             "ionfileLocation": "IrcLib-0.1.4"
