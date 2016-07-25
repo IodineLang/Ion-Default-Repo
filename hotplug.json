@@ -7,9 +7,9 @@
         "url": "https://github.com/IodineLang/Hotplug"
     },
     "versions": {
-        "v1.0.0": {
-            "download": "https://github.com/IodineLang/Hotplug/archive/v1.0.0.zip",
-            "ionfileLocation": "Hotplug-1.0.0"
+        "v1.2.0": {
+            "download": "https://github.com/IodineLang/Hotplug/archive/v1.2.0.zip",
+            "ionfileLocation": "Hotplug-1.2.0"
         }
     },
     "dependencies": {}
